@@ -27,15 +27,12 @@ Udemy-Clone/
 └── README.md
 
 💻 How to Run the Project
-Clone the repository
-git clone https://github.com/your-username/udemy-clone.git
 
 Open the project folder
 Run the index.html file in your browser
 🌐 Live Demo
-Add your GitHub Pages link here after deployment.
 Example:
-https://your-username.github.io/udemy-clone/
+https://suryaravichandar007-creator.github.io/Udemy-Clone/
 
 
 📚 Learning Outcomes
